@@ -1,10 +1,10 @@
 ![image](https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif)
 <div align="center">
   <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="50px" align="left"/>
-  <span align="middle"><strong>DATA STRUCTURE & ALGORITHMS<strong></span>
+  <span align="middle"><strong>PATHDARSHAK<strong></span>
   <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="50px" align="right"/>
 </div>
-
+<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif"/>
 <br/>
 
 [1].![image](https://user-images.githubusercontent.com/120386468/207912968-c9db4480-96ab-48ff-927f-0aead92b06fd.png)
