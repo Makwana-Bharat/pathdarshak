@@ -1,12 +1,10 @@
 ![image](https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif)
 <div align="center">
   <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="50px" align="left"/>
-  <span align="middle"><strong>PATHDARSHAK<strong></span>
+  <strong>ALGORITHM_VISUALIZATION</strong>
   <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" height="50px" align="right"/>
 </div>
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif"/>
-<br/>
-
 [1].![image](https://user-images.githubusercontent.com/120386468/207912968-c9db4480-96ab-48ff-927f-0aead92b06fd.png)
 [2].![image](https://user-images.githubusercontent.com/120386468/207915710-b4941a92-06bf-429b-be18-11dc680e551a.png)
 [3].![image](https://user-images.githubusercontent.com/120386468/207913124-6f0ab532-6eb3-42cb-96cd-1995e45c3ade.png)
